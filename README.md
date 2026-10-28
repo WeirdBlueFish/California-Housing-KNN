@@ -52,5 +52,5 @@ The dataset contains features derived from the 1990 U.S. Census, including:
 
 ## 👤 Author
   - Farbod Mehrgan
-  - Kaggle: @farbodmehrgan
-  - GitHub: [Your GitHub Profile](https://github.com/WeirdBlueFish)
+  - Kaggle: [Kaggle Profile](https://www.kaggle.com/farbodmehrgan)
+  - GitHub: [GitHub Profile](https://github.com/WeirdBlueFish)
